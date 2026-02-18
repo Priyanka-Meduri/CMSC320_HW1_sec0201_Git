@@ -12,3 +12,9 @@ Answer: Data science can be applied to every
 field and domain. Data visualization can help
 in medicine, public policy, sports, finance, etc.
 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines two branches and shows
+the history. But rebasing rewrites history by
+moving one commit on top another.
