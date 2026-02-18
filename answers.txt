@@ -1,0 +1,7 @@
+Q1: Why might we consider using Git?
+
+Answer: It makes the process of multiple
+editors on one project working together easier.
+Now, they can share their code without merge
+conflicts and work together on the same folder.
+
